@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Ma.Carol.Gimenez</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/whatsapp.css">
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="css/ie7.css" type="text/css">
+	<![endif]-->
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<a href="https://api.whatsapp.com/send?phone= 5493424420422." class="float" target="_blank">
+	<i class="fa fa-whatsapp my-float"></i>
+	</a>
+
+	<div class="header">
+		<div>
+			<a href="index.html" id="logo"><img src="images/logo.png" alt="logo"></a>
+			<ul>
+				<li class="selected">
+					<a href="index.html">Inicio</a>
+				</li>
+				<li>
+					<a href="about.html">Blog</a>
+				</li>
+				<li>
+					<a href="collections.html">Productos</a>
+					<ul>
+						<li>
+							<a href="collections.html">Women's</a>
+						</li>
+						<li>
+							<a href="collections.html">Men's</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="blog.html">Nosotros Somos</a>
+				</li>
+				<li>
+					<a href="locator.html">Contacto</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+	<div class="body">
+		<div>
+
+<h2>LA CASA DEBE SER EL ESTUCHE DE LA VIDA,</h2>
+			<p>LA MÁQUINA DE LA FELICIDAD.</p>
+			<p>
+				Cómo Le Corbusier lo decía y sostenía la CASA DEBE SER EL ESTUCHE DE LA VIDA. Refuigio, contención,hogar, donde pasamos la mayor parte de nuestro tiempo disfrutando, descansando y en otros momentos compatiendo con amigos. Es el lugar que nos protege del exterior, donde nos sentimos hecha a imagen y semejanza de lo que somos, habla de nuestro ser y se expresa por su misma. br No dejes de vestirla como te gusta, como te gustaría que te identifique, hace de tu casa, un espacio de
+				protección, un espaciodonde sea uno de los que te haga realmente feliz
+
+			</p>
+			<ul>
+				<li>
+					<a href="collections.html"><img src="images/figure2.jpg" alt=""></a> <a href="collections.html">Cortinas</a>
+				</li>
+				<li>
+					<a href="collections.html"><img src="images/figure3.jpg" alt=""></a> <a href="collections.html">Telas</a>
+				</li>
+				<li>
+					<a href="collections.html"><img src="images/figure4.jpg" alt=""></a> <a href="collections.html">Almohadones</a>
+				</li>
+				<li>
+					<a href="collections.html"><img src="images/figure5.jpg" alt=""></a> <a href="collections.html">Sistemas</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="footer">
+		<div>
+			<p>
+				&#169; Ana Gimenez
+			</p>
+			<ul>
+				<li>
+					<a href="#">Privacy Policy</a>
+				</li>
+				<li>
+					<a href="#">Terms And Conditons</a>
+				</li>
+			</ul>
+			<div class="connect">
+				<a href="https://www.instagram.com/ma.carol.gimenez/?hl=es-la" id="instagram">Instagram</a> <a href="https://www.facebook.com/carolyna21" id="facebook">Facebook</a> <a href="http://freewebsitetemplates.com/go/googleplus/" id="googleplus">Google+</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
