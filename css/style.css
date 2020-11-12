@@ -639,7 +639,7 @@ p a:hover {
 	color:#4b4b4b;
 	text-decoration:none
 }
-form{
+.conteiner{
  margin: 0 auto;
  width:450px;
  margin-bottom: 20px;
